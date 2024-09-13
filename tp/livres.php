@@ -24,6 +24,7 @@ include("connexion.php");
 //     }
 // } else {
 //     echo "Erreur : " . $conn->error;
+
 // }
 // $rowsFilm = [];
 // $sql1 = "SELECT * FROM Film";
